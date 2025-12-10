@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a hobbyist game developer / modder, and occasionally delve into software projects outside of games.
+I enjoy writing documentation for tools and game engines I'm working with, as well as helping tutor others.
+
+Excuse the dust, this page is going through a slow moving overhaul as I hide/remove projects I've moved on from, add active ones, and create a personal site.
 
 <!--
 **Doommarine23/Doommarine23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
